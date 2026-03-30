@@ -3,6 +3,6 @@
 #ifndef CARTAO_H
 #define CARTAO_H
 
-string validar_cartao(long long a);
+string verificar_cartao(long long a);
 
 #endif
