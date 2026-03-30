@@ -1,6 +1,8 @@
+#include "lib/cs50.h"
+
 #ifndef CARTAO_H
 #define CARTAO_H
 
-char* validar_cartao(long long a);
+string validar_cartao(long long a);
 
 #endif
